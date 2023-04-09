@@ -1,0 +1,30 @@
+.optionedMessageContainer {
+  display: flex;
+  max-width: 65%;
+  flex-direction: column;
+  width: max-content;
+  border-radius: 6px;
+  border-top-left-radius: 0;
+  background-color: #f5f5f5;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
+}
+.titleMsg {
+  padding: 8px 12px;
+  border-top-right-radius: 6px;
+  background-color: #ffffff;
+}
+.optContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.optText {
+  margin: auto;
+  color: #027cd5;
+}
+.optSubtext {
+  margin: auto;
+  color: #878787;
+  padding-top: 6px;
+}
