@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.p-0 {
+  padding: 0;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-35 {
+  width: 35%;
+}
+.w-65 {
+  width: 65%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
