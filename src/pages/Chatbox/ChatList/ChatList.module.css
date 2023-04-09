@@ -1,0 +1,7 @@
+.chatListContainer {
+  padding: 0;
+  height: 100vh;
+  direction: ltr;
+  overflow-y: scroll;
+  box-sizing: border-box;
+}
